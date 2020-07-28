@@ -13,9 +13,9 @@ const mahedi = {
         mobile: ["React Native", "Flutter"],
         frontEnd: ["React", "Next", "Gatsby"],
         backEnd: ["Node", "Express", "Graphql"],
-        devOps: ["AWS", "Heroky", "Firebase",],
-        databases: ["Postgre", "Dynamo Db",],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Heroku"],
+        databases: ["Postgre", "Dynamo"],
+        misc: ["Firebase", "Cypress"]
     },
     currentProject: "Working on an admin application to manage a garage company",
 };
