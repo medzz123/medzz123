@@ -2,6 +2,8 @@
 <p><em>Software Engineer at <a href="http://equals.co">Equals</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<h3><a href="mahedi.co">mahedi.co</a></h3>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -18,6 +20,3 @@ const mahedi = {
     currentProject: "Working on an admin application to manage a garage company",
 };
 ```
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
