@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2>Hey I'm Mahedi!</h2>
+<p><em>Software Engineer at <a href="http://equals.co">Equals</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**mahedihs1997/mahedihs1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started:
+```javascript
+const mahedi = {
+    code: ["Javascript", "Typescript", "Java"],
+    technologies: {
+        mobile: ["React Native", "Flutter"],
+        frontEnd: ["React", "Next", "Gatsby"],
+        backEnd: ["Node", "Express", "Graphql"],
+        devOps: ["AWS", "Heroky", "Firebase",],
+        databases: ["Postgre", "Dynamo Db",],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    currentProject: "Working on an admin application to manage a garage company",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
