@@ -2,7 +2,7 @@
 <p><em>Software Engineer at <a href="http://equals.co">Equals</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<h3><a href="mahedi.co">mahedi.co</a></h3>
+<h3><a href="https://mahedi.co">mahedi.co</a></h3>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
