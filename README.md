@@ -3,16 +3,14 @@
 </em></p>
 
 ```javascript
-const mahedi = {
-    code: ["Javascript", "Typescript", "Java"],
-    technologies: {
-        mobile: ["React Native", "Flutter"],
-        frontEnd: ["React", "Next", "Gatsby"],
-        backEnd: ["Node", "Express", "Graphql"],
-        devOps: ["AWS", "Heroku"],
-        databases: ["Postgre", "Dynamo"],
-        misc: ["Firebase", "Cypress"]
-    },
-    currentProject: "Working on an admin application to manage a garage company",
-};
+{
+    languages: ["Javascript", "Typescript", "Java"],
+    mobile: ["React Native", "Flutter"],
+    frontEnd: ["React", "Next", "Gatsby"],
+    backEnd: ["Node", "Express", "Graphql"],
+    ops: ["AWS", "Heroku", "Circle Ci", "Code Build", "Github Actions"],
+    databases: ["Postgre", "Dynamo"],
+    misc: ["Firebase", "Cypress", "Styled Components", "Emotion", "Detox", "React Navigation"],
+    currentProject: "Admin application to manage a garage company",
+}
 ```
