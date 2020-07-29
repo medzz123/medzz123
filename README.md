@@ -1,4 +1,4 @@
-<h2>Hey I'm Mahedi!  -> <a href="https://mahedi.co">mahedi.co</a> </h2>
+<h2>Hey I'm Mahedi!  <a href="https://mahedi.co">→ my portfolio</a> </h2>
 <p><em>Software Engineer at <a href="http://equals.co">Equals</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
