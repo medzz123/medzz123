@@ -14,3 +14,4 @@
     currentProject: "Admin application to manage a garage company",
 }
 ```
+<img src="https://media.giphy.com/media/dyicVTX7vJYhSbryxr/giphy.gif" width="100%"> 
