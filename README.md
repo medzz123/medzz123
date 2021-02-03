@@ -2,16 +2,16 @@
 <p><em>Software Engineer at <a href="http://equals.co">Equals</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-```javascript
-{
-    languages: ["Javascript", "Typescript", "Java"],
-    mobile: ["React Native", "Flutter"],
-    frontEnd: ["React", "Next", "Gatsby"],
-    backEnd: ["Node", "Express", "Graphql"],
-    ops: ["AWS", "Heroku", "Circle Ci", "Code Build", "Github Actions"],
-    databases: ["Postgre", "Dynamo"],
-    misc: ["Firebase", "Cypress", "Styled Components", "Emotion", "Detox", "React Navigation"],
-    currentProject: "Admin application to manage a garage company",
-}
-```
+**Tech using day to day** 
+
+Typescript, Node, Graphql, Apollo, Express, Cypress, React, React Native, Redux, Next Js, Git
+
+**Tech I have some experience with**
+
+Java, C++, Flutter, Go, Dart, AWS, GCP, Heroku, Github Actions
+
+**Current Side Project**
+
+Completing my final year university project. A hybrid application built using Flutter and Firebase, which enables people to manage tasks and set up reminders easily.
+
 <img src="https://media.giphy.com/media/dyicVTX7vJYhSbryxr/giphy.gif" width="100%"> 
