@@ -2,13 +2,13 @@
 <p><em>Software Engineer at <a href="http://equals.co">Equals</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-**Tech using day to day** 
+**Technologies I am using day to day** 
 
 Typescript, Node, Graphql, Apollo, Express, Cypress, React, React Native, Redux, Next Js, Git
 
-**Tech I have some experience with**
+**Techonologies I have some experience with**
 
-Java, C++, Flutter, Go, Dart, AWS, GCP, Heroku, Github Actions
+Java, Flutter, Dart, AWS, GCP, Heroku, Github Actions, Firebase
 
 **Current Side Project**
 
