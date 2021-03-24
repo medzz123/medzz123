@@ -1,6 +1,6 @@
-# Hey I'm Mahedi! Checkout my website <a href="https://mahedi.co">mahedi.co</a>
-<p><em>Software Engineer at <a href="http://equals.co">Equals</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Hey I'm Mahedi!
+<p>Portfolio: <a href="https://mahedi.co">mahedi.co</a><p>
+<p>Software Engineer at <a href="http://equals.co">Equals</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ### Technologies I am using day to day
 
