@@ -1,5 +1,5 @@
 # Hey I'm Mahedi!
-<p>Portfolio: <a href="https://medzz.dev">medzz.co</a><p>
+<p>Portfolio: <a href="https://medzz.dev">medzz.dev</a><p>
 <p>Software Engineer at <a href="http://equals.co">Equals</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ### Technologies I am using day to day
